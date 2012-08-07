@@ -11,7 +11,7 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-public class CasscadeTypeInconsistencySessionFactory {
+public class CasscadeTypeInconsistencySessionFactoryTest {
 	private SessionFactory sessionFactory;
 
 	@Before
